@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Zev Godfrey</h1>
 
-<p align="center">I'm an 18 year old developer from Victoria BC studying Computer Science at UofT. I've been programming primarily in Java since early 2020 but I also have projects in a variety of languages and frameworks. Lately I've been learning C#, .NET, and UWP (Universal Windows Platform) to build a powerful note taking application that I use everyday.</p>
+<p align="center">I'm a 19 year old developer from Victoria BC studying Computer Science at UofT. I've been programming primarily in Java since early 2020 but I also have projects in a variety of languages and frameworks. Lately I've been learning C#, .NET, and UWP (Universal Windows Platform) to build a powerful note taking application that I use everyday.</p>
 
 [![Projects](./projects-preview.png)](https://www.zevg.ca/projects)
 
